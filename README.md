@@ -1,16 +1,13 @@
 # 💫 About Me
 
-👩‍💻 Kavya Gada  
-🚀 AI & Data Enthusiast | Building Practical, Scalable Intelligence from Data  
+👩‍💻 Kavya Gada
+🚀 AI & Data | Applied Machine Learning & Analytics
 
-BTech in Artificial Intelligence & Machine Learning Mumbai, India  
+BTech in Artificial Intelligence & Machine Learning | Mumbai, India
 
-I am passionate about designing data-driven systems that combine analytical thinking, machine learning, and structured software development. My focus lies in AI/ML, Deep Learning, Data Analytics, and practical software implementation, with an interest in building solutions that create measurable impact.
+I work on building data-driven applications by applying machine learning concepts, analytical thinking, and structured development practices. I focus on strengthening fundamentals while developing practical solutions that translate data into meaningful insights.
 
-I actively participate in hackathons, ideathons, seminars, and competitive programming platforms to continuously improve both my technical and problem-solving skills.
-
-I am open to learning-focused roles, collaborative projects, and structured internship opportunities across AI, Data, Analytics, and technology-driven problem solving.
-
+Open to AI/ML or technical internship and collaboration opportunities.
 ---
 
 # 💻 Tech Stack (Badges)
@@ -36,7 +33,6 @@ I am open to learning-focused roles, collaborative projects, and structured inte
 - Developing interactive dashboards using Power BI & Tableau  
 - Improving algorithmic thinking through LeetCode & HackerRank  
 - Participating in hackathons, ideathons & technical seminars  
-- Improving structured coding & development practices  
 
 
 ---
@@ -71,19 +67,19 @@ I am open to learning-focused roles, collaborative projects, and structured inte
 - Strengthening advanced DSA concepts  
 - Understanding enterprise-level AI workflows  
 
-
----
-
 ## 💬 Ask me about
 
-- ML-powered web applications  
-- YOLO object detection implementation  
-- NLP-based classification models  
-- Power BI dashboards & analytics storytelling  
-- Streamlit/Flask project deployment  
-- Starting your AI/ML journey  
-- Balancing academics, projects & internships  
+- Building beginner-to-intermediate ML-based projects
 
+- Exploring computer vision and NLP fundamentals
+
+- Creating basic data dashboards and visualizations
+
+- Deploying small projects using tools like Streamlit
+
+- Learning and improving in AI/ML step by step
+
+- Managing academics alongside projects and skill development
 
 ---
 
@@ -137,9 +133,9 @@ Consistency and structured learning drive my growth.
 ---
 
 
-## 🏆 GitHub Trophies
+// ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=kavyagada20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+// ![](https://github-profile-trophy.vercel.app/?username=kavyagada20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
