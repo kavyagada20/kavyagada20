@@ -3,8 +3,7 @@
 👩‍💻 Kavya Gada  
 🚀 AI & Data Enthusiast | Building Practical, Scalable Intelligence from Data  
 
-BTech in Artificial Intelligence & Machine Learning  
-Mumbai, India  
+BTech in Artificial Intelligence & Machine Learning Mumbai, India  
 
 I am passionate about designing data-driven systems that combine analytical thinking, machine learning, and structured software development. My focus lies in AI/ML, Deep Learning, Data Analytics, and practical software implementation, with an interest in building solutions that create measurable impact.
 
@@ -12,39 +11,6 @@ I actively participate in hackathons, ideathons, seminars, and competitive progr
 
 I am open to learning-focused roles, collaborative projects, and structured internship opportunities across AI, Data, Analytics, and technology-driven problem solving.
 
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming
-Python | C | C++ | Java  
-
-### 📊 Data Science & Machine Learning
-NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn  
-
-### 🧠 Deep Learning
-TensorFlow | Keras | PyTorch  
-
-### 👁 Computer Vision
-OpenCV | YOLO  
-
-### 🗣 NLP
-NLTK | spaCy | TF-IDF  
-
-### 📈 Data Analytics & BI
-Power BI | Tableau | SQL (MySQL)  
-
-### 🌐 Software Development
-HTML5 | CSS3 | Tailwind CSS | Flask | Streamlit  
-Basic API integration | Postman  
-Git & GitHub  
-
-### ⚙ Tools
-Linux | VS Code | Jupyter | Google Colab | Anaconda | n8n  
-
-
----
 
 ## 🚀 I’m currently working on
 
