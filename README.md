@@ -1,27 +1,194 @@
-# 💫 About Me:
-👩‍💻 Kavya Gada<br>🚀 AI & Data Enthusiast | Building Practical, Scalable Intelligence from Data<br><br>BTech in Artificial Intelligence & Machine Learning<br>Mumbai, India<br><br>I am passionate about designing data-driven systems that combine analytical thinking, machine learning, and structured software development. My focus lies in AI/ML, Deep Learning, Data Analytics, and practical software implementation, with an interest in building solutions that create measurable impact.<br><br>I actively participate in hackathons, ideathons, seminars, and competitive programming platforms to continuously improve both my technical and problem-solving skills.<br><br>I am open to learning-focused roles, collaborative projects, and structured internship opportunities across AI, Data, Analytics, and technology-driven problem solving.<br><br>🛠 Tech Stack<br>💻 Programming<br><br>Python | C | C++ | Java<br><br>📊 Data Science & Machine Learning<br><br>NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn<br><br>🧠 Deep Learning<br><br>TensorFlow | Keras | PyTorch<br><br>👁 Computer Vision<br><br>OpenCV | YOLO<br><br>🗣 NLP<br><br>NLTK | spaCy | TF-IDF<br><br>📈 Data Analytics & BI<br><br>Power BI | Tableau | SQL (MySQL)<br><br>🌐 Software Development<br><br>HTML5 | CSS3 | Tailwind CSS | Flask | Streamlit<br>Basic API integration | Postman<br>Git & GitHub<br><br>⚙ Tools<br><br>Linux | VS Code | Jupyter | Google Colab | Anaconda | n8n<br><br>🚀 I’m currently working on<br><br>Strengthening my foundation in Data Science & Deep Learning<br><br>Building ML-powered applications with clean UI integration<br><br>Developing interactive dashboards using Power BI & Tableau<br><br>Improving algorithmic thinking through LeetCode & HackerRank<br><br>Participating in hackathons, ideathons & technical seminars<br><br>Improving structured coding & development practices<br><br>🌱 I’m currently learning<br><br>Deep Learning model optimization techniques<br><br>Advanced SQL for data analysis<br><br>Data storytelling & business insight extraction<br><br>Competitive programming patterns<br><br>Writing modular, maintainable, and scalable code<br><br>🤝 I’m looking to collaborate on<br><br>AI/ML-driven real-world applications<br><br>Data Analytics & Business Intelligence projects<br><br>End-to-end ML systems (Model + Application layer)<br><br>Computer Vision & NLP solutions<br><br>Hackathon-based innovation projects<br><br>🆘 I’m looking for help with<br><br>Scaling ML systems beyond academic prototypes<br><br>System design for AI-driven applications<br><br>Improving performance optimization techniques<br><br>Strengthening advanced DSA concepts<br><br>Understanding enterprise-level AI workflows<br><br>💬 Ask me about<br><br>ML-powered web applications<br><br>YOLO object detection implementation<br><br>NLP-based classification models<br><br>Power BI dashboards & analytics storytelling<br><br>Streamlit/Flask project deployment<br><br>Starting your AI/ML journey<br><br>Balancing academics, projects & internships<br><br>⚡ Fun Fact<br><br>I enjoy turning real-world challenges into working AI prototypes — even before I feel fully ready.<br>Consistency and structured learning drive my growth.<br><br>📊 GitHub Stats<br>![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyagada20&show_icons=true&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagada20&layout=compact&theme=tokyonight)<br><br>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavyagada20&theme=tokyonight)<br><br>🏷️ Badges<br>![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)<br>![Machine Learning](https://img.shields.io/badge/Machine_Learning-Applied-success)<br>![Deep Learning](https://img.shields.io/badge/Deep_Learning-Learning-orange)<br>![Data Analytics](https://img.shields.io/badge/Data_Analytics-PowerBI_Tableau-yellow)<br>![SQL](https://img.shields.io/badge/SQL-MySQL-lightgrey)<br>![Competitive Programming](https://img.shields.io/badge/Problem_Solving-Active-red)<br>![Hackathons](https://img.shields.io/badge/Hackathons-Participant-purple)
+# 💫 About Me
 
+👩‍💻 Kavya Gada  
+🚀 AI & Data Enthusiast | Building Practical, Scalable Intelligence from Data  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithkavya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyagada) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TechStreamHub) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KavyaGada197571) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kavya Gada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavyagada20@gmail.com) 
+BTech in Artificial Intelligence & Machine Learning  
+Mumbai, India  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kavyagada20&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kavyagada20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagada20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I am passionate about designing data-driven systems that combine analytical thinking, machine learning, and structured software development. My focus lies in AI/ML, Deep Learning, Data Analytics, and practical software implementation, with an interest in building solutions that create measurable impact.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kavyagada20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I actively participate in hackathons, ideathons, seminars, and competitive programming platforms to continuously improve both my technical and problem-solving skills.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I am open to learning-focused roles, collaborative projects, and structured internship opportunities across AI, Data, Analytics, and technology-driven problem solving.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kavyagada20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kavyagada20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
+
+### 💻 Programming
+Python | C | C++ | Java  
+
+### 📊 Data Science & Machine Learning
+NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn  
+
+### 🧠 Deep Learning
+TensorFlow | Keras | PyTorch  
+
+### 👁 Computer Vision
+OpenCV | YOLO  
+
+### 🗣 NLP
+NLTK | spaCy | TF-IDF  
+
+### 📈 Data Analytics & BI
+Power BI | Tableau | SQL (MySQL)  
+
+### 🌐 Software Development
+HTML5 | CSS3 | Tailwind CSS | Flask | Streamlit  
+Basic API integration | Postman  
+Git & GitHub  
+
+### ⚙ Tools
+Linux | VS Code | Jupyter | Google Colab | Anaconda | n8n  
+
+
+---
+
+## 🚀 I’m currently working on
+
+- Strengthening my foundation in Data Science & Deep Learning  
+- Building ML-powered applications with clean UI integration  
+- Developing interactive dashboards using Power BI & Tableau  
+- Improving algorithmic thinking through LeetCode & HackerRank  
+- Participating in hackathons, ideathons & technical seminars  
+- Improving structured coding & development practices  
+
+
+---
+
+## 🌱 I’m currently learning
+
+- Deep Learning model optimization techniques  
+- Advanced SQL for data analysis  
+- Data storytelling & business insight extraction  
+- Competitive programming patterns  
+- Writing modular, maintainable, and scalable code  
+
+
+---
+
+## 🤝 I’m looking to collaborate on
+
+- AI/ML-driven real-world applications  
+- Data Analytics & Business Intelligence projects  
+- End-to-end ML systems (Model + Application layer)  
+- Computer Vision & NLP solutions  
+- Hackathon-based innovation projects  
+
+
+---
+
+## 🆘 I’m looking for help with
+
+- Scaling ML systems beyond academic prototypes  
+- System design for AI-driven applications  
+- Improving performance optimization techniques  
+- Strengthening advanced DSA concepts  
+- Understanding enterprise-level AI workflows  
+
+
+---
+
+## 💬 Ask me about
+
+- ML-powered web applications  
+- YOLO object detection implementation  
+- NLP-based classification models  
+- Power BI dashboards & analytics storytelling  
+- Streamlit/Flask project deployment  
+- Starting your AI/ML journey  
+- Balancing academics, projects & internships  
+
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning real-world challenges into working AI prototypes — even before I feel fully ready.  
+Consistency and structured learning drive my growth.
+
+
+---
+
+## 📊 GitHub Stats
+
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyagada20&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagada20&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavyagada20&theme=tokyonight)
+
+
+---
+
+## 🏷️ Badges
+
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Applied-success)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Learning-orange)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-PowerBI_Tableau-yellow)
+![SQL](https://img.shields.io/badge/SQL-MySQL-lightgrey)
+![Competitive Programming](https://img.shields.io/badge/Problem_Solving-Active-red)
+![Hackathons](https://img.shields.io/badge/Hackathons-Participant-purple)
+
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithkavya)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyagada)
+
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TechStreamHub)
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KavyaGada197571)
+
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kavya%20Gada)
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavyagada20@gmail.com)
+
+
+---
+
+# 💻 Tech Stack (Badges)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=kavyagada20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=kavyagada20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=kavyagada20&icon=0&color=0)](https://visitcount.itsvg.in)
